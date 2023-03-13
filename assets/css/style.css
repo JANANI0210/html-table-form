@@ -1,1 +1,27 @@
-/* this is a css file  */
+.NameTable,
+tr,
+td,
+th {
+  border: solid 1px #000;
+  border-collapse: collapse;
+}
+.Row-one {
+  color: rgb(15, 17, 18);
+  background-color: aquamarine;
+}
+.Fir-row {
+  color: rgb(15, 17, 18);
+  background-color: rgb(210, 255, 127);
+}
+.Sec-row {
+  color: rgb(15, 17, 18);
+  background-color: rgb(195, 127, 255);
+}
+.Thi-row {
+  color: rgb(15, 17, 18);
+  background-color: rgb(255, 127, 246);
+}
+.Fou-row {
+  color: rgb(130, 134, 137);
+  background-color: rgb(255, 127, 153);
+}
